@@ -20,8 +20,14 @@ git remote add origin https://github.com/<github_username>/<repo_name>.git
 git push -u origin main
 
 
-### push an existing repository from the command line
+### push an existing local repository from the command line
 git remote add origin https://github.com/<github_username>/<repo_name>.git
+
+git add .
+
+git status
+
+git commit -m "comment"
 
 git branch -M main
 
