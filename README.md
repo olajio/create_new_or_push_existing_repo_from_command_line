@@ -32,6 +32,3 @@ git commit -m "comment"
 git branch -M main
 
 git push -u origin main
-
-
-### push an existing local repository from the command line
